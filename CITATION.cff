@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the paper below."
+type: dataset
+title: "Interface Composition in Competitive NLP Systems"
+authors:
+  - family-names: Xiao
+    given-names: Xinchen
+    affiliation: Xinjiang University
+license: CC-BY-4.0
+url: "https://github.com/xiaoxinchenn/nlp-interface-composition"
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Free-Form Generation: Measuring Interface Composition in Competitive NLP Systems"
+  authors:
+    - family-names: Xiao
+      given-names: Xinchen
+  collection-title: "Findings of the Association for Computational Linguistics: EACL 2027"
+  year: 2027
+  publisher:
+    name: Association for Computational Linguistics
+  notes: "Accepted; to appear. ACL Anthology link, DOI, and page numbers will be added after publication."

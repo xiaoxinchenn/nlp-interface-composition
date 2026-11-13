@@ -1,0 +1,13 @@
+filename,content_type,row_count,sha256,license_status
+.gitignore,text/plain,,a1291bcc39c348fdc0a631d5ba213d16b48200d5a080d6106888d5cb952464d9,CC-BY-4.0
+ANNOTATION_GUIDE.md,text/markdown,,e338e3026ca8bd73e9c3fa9244765a787071f44d4c72129d84250d2f70cdb7e2,CC-BY-4.0
+CITATION.bib,application/x-bibtex,,9ce14dad2e8959f61e97725ba83b267a2f7273f664b437349581459a4262eb02,CC-BY-4.0
+CITATION.cff,application/yaml,,25f48b0ea67b9f76a46de1d379054961c1a298e80bc2d6a29dab7476a7272868,CC-BY-4.0
+LICENSE,text/plain,,9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411,license_notice
+LICENSES.md,text/markdown,,9a17e558afe96ccfa844fe301380079efaeb96afd9efefc464fbf1d2b94af301,CC-BY-4.0
+README.md,text/markdown,,460ec9cd0a143e3306b7cf7a34e78a43eea788111c95a4fad1582f93da5e3919,CC-BY-4.0
+data/aggregate_statistics.csv,text/csv,44,2a0b063cdf045e2d210a5a55d4afa64f51f5bba8ce3a91bae2fcd14abca2709c,CC-BY-4.0
+data/annotations_final_593.csv,text/csv,593,cf932ac037b48102bda6184ef38bdbf5ca38f9ecbe0c76497fa7e4b228026b40,CC-BY-4.0
+data/entity_map.csv,text/csv,611,b3089fd8c4e68686f647771734a3cd10839fb800c625b94a7adf8f4cd3719101,CC-BY-4.0
+data/evidence_locators.csv,text/csv,1136,25fa17e9b7c277963b633cb2dc379330db0be45bbcf251aba72d42331b17416b,CC-BY-4.0
+data/registry.csv,text/csv,68,0c1253fe0230e1a06057ccf2d15e41d647fd74b215e81b8b6d1c44fc4142f484,CC-BY-4.0

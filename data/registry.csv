@@ -1,0 +1,69 @@
+source,cluster_id,public_name,year,scope,task,language,official_url,system_count,task_missing_count,backbone_missing_count,output_missing_count,adaptation_missing_count,system_missing_count,any_field_missing_count,any_field_missing_rate
+kaggle,ai-mathematical-olympiad-prize,AI Mathematical Olympiad - Progress Prize 1,2024,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize,8,1,1,1,3,0,3,0.375
+kaggle,ai-mathematical-olympiad-progress-prize-2,AI Mathematical Olympiad - Progress Prize 2,2024-2025,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2,8,0,0,0,2,1,3,0.375
+kaggle,ai-mathematical-olympiad-progress-prize-3,AI Mathematical Olympiad - Progress Prize 3,2025-2026,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3,8,1,1,1,3,1,3,0.375
+kaggle,ai4code,Google AI4Code – Understand Code in Python Notebooks,2022,adjacent,code_ordering|ranking,English,https://www.kaggle.com/competitions/AI4Code,6,1,1,1,4,2,4,0.6666666666666666
+kaggle,arc-prize-2024,ARC Prize 2024,2024,boundary_case,agent|generation,not_reported,https://www.kaggle.com/competitions/arc-prize-2024,8,5,4,5,5,3,6,0.75
+kaggle,arc-prize-2025,ARC Prize 2025,2025,boundary_case,agent|generation,not_reported,https://www.kaggle.com/competitions/arc-prize-2025,8,4,5,4,5,4,5,0.625
+kaggle,chaii-hindi-and-tamil-question-answering,chaii - Hindi and Tamil Question Answering,2021,core_nlp,token_span,Hindi|Tamil,https://www.kaggle.com/competitions/chaii-hindi-and-tamil-question-answering,8,0,0,0,0,1,1,0.125
+kaggle,coleridgeinitiative-show-us-the-data,Coleridge Initiative - Show US the Data ,2021,core_nlp,token_span,English,https://www.kaggle.com/competitions/coleridgeinitiative-show-us-the-data,8,0,0,4,3,0,4,0.5
+kaggle,commonlit-evaluate-student-summaries,CommonLit - Evaluate Student Summaries,2023,core_nlp,regression,English,https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries,35,17,3,16,26,6,31,0.8857142857142857
+kaggle,commonlitreadabilityprize,CommonLit Readability Prize,2021,core_nlp,regression,English,https://www.kaggle.com/competitions/commonlitreadabilityprize,8,0,0,0,0,0,0,0.0
+kaggle,deep-past-initiative-machine-translation,Deep Past Challenge - Translate Akkadian to English,2025-2026,core_nlp,generation,Akkadian|English,https://www.kaggle.com/competitions/deep-past-initiative-machine-translation,8,0,0,0,0,0,0,0.0
+kaggle,drawing-with-llms,Drawing with LLMs,2025,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/drawing-with-llms,6,0,0,0,0,0,0,0.0
+kaggle,eedi-mining-misconceptions-in-mathematics,Eedi - Mining Misconceptions in Mathematics,2024,core_nlp,ranking|retrieval,English,https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics,23,0,0,0,8,0,8,0.34782608695652173
+kaggle,feedback-prize-2021,Feedback Prize - Evaluating Student Writing,2021-2022,core_nlp,token_span,English,https://www.kaggle.com/competitions/feedback-prize-2021,8,0,0,0,8,0,8,1.0
+kaggle,feedback-prize-effectiveness,Feedback Prize - Predicting Effective Arguments,2022,core_nlp,classification,English,https://www.kaggle.com/competitions/feedback-prize-effectiveness,6,0,0,0,4,0,4,0.6666666666666666
+kaggle,feedback-prize-english-language-learning,Feedback Prize - English Language Learning,2022,core_nlp,regression,English,https://www.kaggle.com/competitions/feedback-prize-english-language-learning,9,1,0,1,8,1,8,0.8888888888888888
+kaggle,foursquare-location-matching,Foursquare - Location Matching,2022,adjacent,classification|ranking|retrieval,multilingual,https://www.kaggle.com/competitions/foursquare-location-matching,6,0,0,0,0,0,0,0.0
+kaggle,google-code-golf-2025,NeurIPS 2025 - Google Code Golf Championship,2025,boundary_case,agent|generation,not_reported,https://www.kaggle.com/competitions/google-code-golf-2025,12,1,1,6,7,5,7,0.5833333333333334
+kaggle,google-tunix-hackathon,Google Tunix Hack - Train a model to show its work,2025-2026,boundary_case,agent|generation,not_reported,https://www.kaggle.com/competitions/google-tunix-hackathon,7,4,6,4,7,7,7,1.0
+kaggle,jigsaw-agile-community-rules,Jigsaw - Agile Community Rules Classification,2025,core_nlp,classification,English,https://www.kaggle.com/competitions/jigsaw-agile-community-rules,9,0,0,0,5,0,5,0.5555555555555556
+kaggle,jigsaw-toxic-severity-rating,Jigsaw Rate Severity of Toxic Comments   ,2021-2022,core_nlp,ranking|regression,English,https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating,8,1,2,1,2,1,2,0.25
+kaggle,kaggle-llm-science-exam,Kaggle - LLM Science Exam,2023,core_nlp,classification|ranking,English,https://www.kaggle.com/competitions/kaggle-llm-science-exam,31,3,2,4,21,1,21,0.6774193548387096
+kaggle,konwinski-prize,Konwinski Prize,2024-2025,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/konwinski-prize,7,1,1,1,2,0,2,0.2857142857142857
+kaggle,learning-agency-lab-automated-essay-scoring-2,Learning Agency Lab - Automated Essay Scoring 2.0,2024,core_nlp,classification,English,https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2,16,4,1,4,14,3,14,0.875
+kaggle,learning-equality-curriculum-recommendations,Learning Equality - Curriculum Recommendations,2022-2023,core_nlp,ranking|retrieval,multilingual,https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations,16,0,0,0,10,1,11,0.6875
+kaggle,linking-writing-processes-to-writing-quality,Linking Writing Processes to Writing Quality,2023,adjacent,regression,English,https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality,12,2,0,2,10,0,11,0.9166666666666666
+kaggle,llm-20-questions,LLM 20 Questions,2024,boundary_case,agent|generation,English,https://www.kaggle.com/competitions/llm-20-questions,7,0,0,0,1,0,1,0.14285714285714285
+kaggle,llm-detect-ai-generated-text,LLM - Detect AI Generated Text,2023-2024,core_nlp,classification,English,https://www.kaggle.com/competitions/llm-detect-ai-generated-text,29,3,3,3,24,4,25,0.8620689655172413
+kaggle,llm-prompt-recovery,LLM Prompt Recovery,2024,boundary_case,generation,English,https://www.kaggle.com/competitions/llm-prompt-recovery,6,0,0,0,3,0,3,0.5
+kaggle,llms-you-cant-please-them-all,LLMs - You Can't Please Them All,2024-2025,boundary_case,generation,English,https://www.kaggle.com/competitions/llms-you-cant-please-them-all,7,0,0,6,6,6,6,0.8571428571428571
+kaggle,lmsys-chatbot-arena,LMSYS - Chatbot Arena Human Preference Predictions,2024,core_nlp,classification,English,https://www.kaggle.com/competitions/lmsys-chatbot-arena,15,1,1,1,4,1,4,0.26666666666666666
+kaggle,make-data-count-finding-data-references,Make Data Count - Finding Data References,2025,core_nlp,classification|token_span,English,https://www.kaggle.com/competitions/make-data-count-finding-data-references,21,0,0,2,9,0,9,0.42857142857142855
+kaggle,map-charting-student-math-misunderstandings,MAP - Charting Student Math Misunderstandings,2025,core_nlp,ranking|retrieval,English,https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings,22,1,1,1,4,1,4,0.18181818181818182
+kaggle,med-gemma-impact-challenge,MedGemma Impact Challenge,2025-2026,boundary_case,agent|generation,not_reported,https://www.kaggle.com/competitions/med-gemma-impact-challenge,11,9,9,9,10,11,11,1.0
+kaggle,nbme-score-clinical-patient-notes,NBME - Score Clinical Patient Notes,2022,adjacent,token_span,English,https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes,21,4,1,4,20,0,20,0.9523809523809523
+kaggle,pii-detection-removal-from-educational-data,The Learning Agency Lab - PII Data Detection,2024,core_nlp,token_span,English,https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data,31,1,2,1,19,0,20,0.6451612903225806
+kaggle,santa-2024,Santa 2024 - The Perplexity Permutation Puzzle,2024-2025,boundary_case,generation|ranking,English,https://www.kaggle.com/competitions/santa-2024,8,1,1,1,6,1,6,0.75
+kaggle,shopee-product-matching,Shopee - Price Match Guarantee,2021,adjacent,ranking|retrieval,multilingual,https://www.kaggle.com/competitions/shopee-product-matching,6,0,0,0,0,0,0,0.0
+kaggle,stable-diffusion-image-to-prompts,Stable Diffusion - Image to Prompts,2023,boundary_case,generation|retrieval,English,https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts,6,0,0,0,0,0,0,0.0
+kaggle,us-patent-phrase-to-phrase-matching,U.S. Patent Phrase to Phrase Matching,2022,core_nlp,regression,English,https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching,6,2,0,2,5,0,5,0.8333333333333334
+kaggle,uspto-explainable-ai,USPTO - Explainable AI for Patent Professionals,2024,adjacent,generation|retrieval,English,https://www.kaggle.com/competitions/uspto-explainable-ai,21,3,0,3,20,0,20,0.9523809523809523
+kaggle,wsdm-cup-multilingual-chatbot-arena,WSDM Cup - Multilingual Chatbot Arena,2024-2025,adjacent,classification,multilingual,https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena,11,1,0,1,4,2,6,0.5454545454545454
+shared_task,semeval-2023-task-1,Visual Word Sense Disambiguation,2023,not_applicable,ranking|retrieval,not_reported,https://aclanthology.org/2023.semeval-1.308/,3,0,0,0,0,1,1,0.3333333333333333
+shared_task,semeval-2023-task-10,Explainable Detection of Online Sexism,2023,not_applicable,classification,not_reported,https://aclanthology.org/2023.semeval-1.305/,3,0,0,0,0,2,2,0.6666666666666666
+shared_task,semeval-2023-task-2,Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2),2023,not_applicable,classification|token_span,not_reported,https://aclanthology.org/2023.semeval-1.310/,3,0,0,0,0,2,2,0.6666666666666666
+shared_task,semeval-2023-task-7,Multi-Evidence Natural Language Inference for Clinical Trial Data,2023,not_applicable,classification,not_reported,https://aclanthology.org/2023.semeval-1.307/,3,0,0,0,0,0,0,0.0
+shared_task,semeval-2024-task-1,Semantic Textual Relatedness for African and Asian Languages,2024,not_applicable,regression,not_reported,https://aclanthology.org/2024.semeval-1.272/,3,0,0,1,0,3,3,1.0
+shared_task,semeval-2024-task-2,Safe Biomedical Natural Language Inference for Clinical Trials,2024,not_applicable,classification,not_reported,https://aclanthology.org/2024.semeval-1.271/,3,0,0,0,0,1,1,0.3333333333333333
+shared_task,semeval-2024-task-6,SHROOM,2024,not_applicable,classification,not_reported,https://aclanthology.org/2024.semeval-1.273/,3,0,0,1,0,1,1,0.3333333333333333
+shared_task,semeval-2024-task-9,BRAINTEASER,2024,not_applicable,classification,not_reported,https://aclanthology.org/2024.semeval-1.274/,3,0,0,0,0,2,2,0.6666666666666666
+shared_task,semeval-2025-task-11,Bridging the Gap in Text-Based Emotion Detection,2025,not_applicable,classification,not_reported,https://aclanthology.org/2025.semeval-1.327/,3,0,0,0,0,0,0,0.0
+shared_task,semeval-2025-task-3,Mu-SHROOM,2025,not_applicable,classification|token_span,not_reported,https://aclanthology.org/2025.semeval-1.322/,3,0,0,0,1,1,2,0.6666666666666666
+shared_task,semeval-2025-task-7,Multilingual and Crosslingual Fact-Checked Claim Retrieval,2025,not_applicable,ranking|retrieval,not_reported,https://aclanthology.org/2025.semeval-1.323/,3,0,0,0,0,0,0,0.0
+shared_task,semeval-2025-task-8,Question Answering over Tabular Data,2025,not_applicable,generation,not_reported,https://aclanthology.org/2025.semeval-1.324/,3,0,0,0,0,0,0,0.0
+shared_task,trec-2023-deep-learning,Deep Learning Track,2023,not_applicable,ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec32/papers/Overview_deep.pdf,4,0,0,0,0,0,0,0.0
+shared_task,trec-2023-neuclir,NeuCLIR,2023,not_applicable,ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec32/papers/Overview_neuclir.pdf,3,0,0,0,0,0,0,0.0
+shared_task,trec-2024-neuclir,NeuCLIR,2024,not_applicable,ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec33/papers/Overview_neuclir.pdf,3,0,0,0,0,0,0,0.0
+shared_task,trec-2024-rag,Retrieval-Augmented Generation Track,2024,not_applicable,generation|ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec33/,3,0,0,0,1,0,1,0.3333333333333333
+shared_task,trec-2025-rag,Retrieval Augmented Generation (RAG) Track,2025,not_applicable,generation|ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec34/papers/Overview_rag.pdf,5,0,0,0,1,0,1,0.2
+shared_task,trec-2025-ragtime,RAGTIME,2025,not_applicable,generation|ranking|retrieval,not_reported,https://trec.nist.gov/pubs/trec34/papers/Overview_ragtime.pdf,3,0,0,0,0,0,0,0.0
+shared_task,wmt-2023-general-translation,General Translation,2023,not_applicable,generation,not_reported,https://aclanthology.org/2023.wmt-1.1/,3,0,0,0,0,0,0,0.0
+shared_task,wmt-2023-metrics,Metrics Shared Task,2023,not_applicable,regression,not_reported,https://aclanthology.org/2023.wmt-1.51/,3,0,0,2,1,2,3,1.0
+shared_task,wmt-2023-quality-estimation,Quality Estimation,2023,not_applicable,regression,not_reported,https://aclanthology.org/2023.wmt-1.52/,2,0,0,0,0,0,0,0.0
+shared_task,wmt-2024-general-translation,General Machine Translation,2024,not_applicable,generation,not_reported,https://aclanthology.org/2024.wmt-1.1/,3,0,0,0,0,0,0,0.0
+shared_task,wmt-2024-metrics,Metrics,2024,not_applicable,regression,not_reported,https://aclanthology.org/2024.wmt-1.2/,1,0,0,0,0,1,1,1.0
+shared_task,wmt-2024-quality-estimation,Quality Estimation,2024,not_applicable,regression,not_reported,https://aclanthology.org/2024.wmt-1.3/,2,0,0,0,0,0,0,0.0
+shared_task,wmt-2025-automated-evaluation,Automated Translation Evaluation Systems,2025,not_applicable,regression,not_reported,https://aclanthology.org/2025.wmt-1.24/,2,0,0,0,1,0,1,0.5
+shared_task,wmt-2025-general-translation,General Machine Translation,2025,not_applicable,generation,not_reported,https://aclanthology.org/2025.wmt-1.22/,3,0,0,1,0,1,1,0.3333333333333333
